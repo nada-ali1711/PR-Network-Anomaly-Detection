@@ -4,6 +4,7 @@ Problem StatementThe exponential growth of network traffic has led to an increas
 1  Download Datset and Understand the Format
 
 2  Clustering Using K-Means and Normalized Cut (Yourimplementation)
+
 3  Normalized Cut (Your implementation)
 
 4  EvaluationWe  will  evaluate  models  based  on  their  ability  to  detect  network  anomaliesaccurately.  You will be required to use the following metrics to evaluate thequality of their models:•Precision•Recall•F1 score•Conditional Entropy
