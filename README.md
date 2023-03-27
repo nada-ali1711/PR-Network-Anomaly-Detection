@@ -1,4 +1,5 @@
 # PR-Network-Anomaly-Detection
+
 Problem StatementThe exponential growth of network traffic has led to an increase in networkanomalies, such as cyber attacks, network failures, and hardware malfunctions.Network anomaly detection is a critical task for maintaining the security andstability  of  computer  networks.   The  objective  of  this  assignment  is  to  helpstudents understand how K-Means and Normalized Cut algorithms can be usedfor network anomaly detection.
 
 1  Download Datset and Understand the Format
